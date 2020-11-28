@@ -5,6 +5,8 @@ script:
 - php index.php
 deploy:
   provider: heroku
-  app: practicaiclv92
   api_key:
     secure: 0fe5256d-eb6b-43d1-857e-b1055b4450ad
+  app: practicaiclv92
+  on:
+    repo: luisvalles92/practicaic
