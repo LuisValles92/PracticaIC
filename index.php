@@ -6,7 +6,8 @@
     <title>PR&Aacute;CTICA IC - LUIS VALLES PASTOR</title>
     <style>
         body {
-            background-color: #34e0ba;
+            background-color: #673bb7;
+            /* background-color: #26a59a; */
         }
     </style>
 </head>
