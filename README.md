@@ -1,4 +1,4 @@
-# PracticaIC
+# Integración continua
 [![Build Status](https://travis-ci.org/LuisValles92/PracticaIC.svg?branch=main)](https://travis-ci.org/LuisValles92/PracticaIC)
 
 _PHP_  
